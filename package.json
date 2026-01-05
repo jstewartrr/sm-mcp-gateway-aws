@@ -1,0 +1,6 @@
+{
+  "name": "sm-mcp-gateway-aws",
+  "version": "1.0.0",
+  "description": "Sovereign Mind MCP Gateway - AWS failover (Vercel hosted)",
+  "type": "module"
+}
